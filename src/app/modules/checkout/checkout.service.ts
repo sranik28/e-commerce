@@ -117,4 +117,3 @@ export const CheckoutService = {
   CancelOrderFromDb,
   GetOrderDetailsFromDb,
 };
-
